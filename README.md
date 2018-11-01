@@ -9,7 +9,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   galois-lfsr:
-    github: teknomunk/galois-lfsr
+    github: teknomunk/cr-galois-lfsr
 ```
 
 ## Usage
